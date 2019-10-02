@@ -6,7 +6,9 @@
       "LocalEvento": " - ",
       "DataEvento": " - ",
       "DificuldadeEvento": " - ",
-      "ObsEvento": " - "
+      "ObsEvento": " - ",
+      "StatusEvento": " - ",
+      "Ano": "2019"
    },
    {
       "IDEvento": 2,
@@ -15,7 +17,9 @@
       "LocalEvento": " - ",
       "DataEvento": " - ",
       "DificuldadeEvento": " - ",
-      "ObsEvento": " - "
+      "ObsEvento": " - ",
+      "StatusEvento": " - ",
+      "Ano": "2019"
    },
    {
       "IDEvento": 3,
@@ -24,7 +28,9 @@
       "LocalEvento": " - ",
       "DataEvento": " - ",
       "DificuldadeEvento": " - ",
-      "ObsEvento": " - "
+      "ObsEvento": " - ",
+      "StatusEvento": " - ",
+      "Ano": "2019"
    },
    {
       "IDEvento": 4,
@@ -42,7 +48,9 @@
       "LocalEvento": " - ",
       "DataEvento": " - ",
       "DificuldadeEvento": " - ",
-      "ObsEvento": " - "
+      "ObsEvento": " - ",
+      "StatusEvento": " - ",
+      "Ano": "2019"
    },
    {
       "IDEvento": 6,
@@ -51,7 +59,9 @@
       "LocalEvento": " - ",
       "DataEvento": " - ",
       "DificuldadeEvento": " - ",
-      "ObsEvento": " - "
+      "ObsEvento": " - ",
+      "StatusEvento": " - ",
+      "Ano": "2019"
    },
    {
       "IDEvento": 7,
@@ -60,7 +70,9 @@
       "LocalEvento": " - ",
       "DataEvento": " - ",
       "DificuldadeEvento": " - ",
-      "ObsEvento": " - "
+      "ObsEvento": " - ",
+      "StatusEvento": " - ",
+      "Ano": "2019"
    },
    {
       "IDEvento": 8,
@@ -69,7 +81,9 @@
       "LocalEvento": " - ",
       "DataEvento": " - ",
       "DificuldadeEvento": " - ",
-      "ObsEvento": " - "
+      "ObsEvento": " - ",
+      "StatusEvento": " - ",
+      "Ano": "2019"
    },
    {
       "IDEvento": 9,
@@ -78,7 +92,9 @@
       "LocalEvento": " - ",
       "DataEvento": " - ",
       "DificuldadeEvento": " - ",
-      "ObsEvento": " - "
+      "ObsEvento": " - ",
+      "StatusEvento": " - ",
+      "Ano": "2019"
    },
    {
       "IDEvento": 10,
@@ -87,7 +103,9 @@
       "LocalEvento": " - ",
       "DataEvento": " - ",
       "DificuldadeEvento": " - ",
-      "ObsEvento": " - "
+      "ObsEvento": " - ",
+      "StatusEvento": " - ",
+      "Ano": "2019"
    },
    {
       "IDEvento": 11,
@@ -96,7 +114,9 @@
       "LocalEvento": " - ",
       "DataEvento": " - ",
       "DificuldadeEvento": " - ",
-      "ObsEvento": " - "
+      "ObsEvento": " - ",
+      "StatusEvento": " - ",
+      "Ano": "2019"
    },
    {
       "IDEvento": 12,
@@ -105,6 +125,8 @@
       "LocalEvento": " - ",
       "DataEvento": " - ",
       "DificuldadeEvento": " - ",
-      "ObsEvento": " - "
+      "ObsEvento": " - ",
+      "StatusEvento": " - ",
+      "Ano": "2019"
    }
 ]
