@@ -15,22 +15,16 @@
       "DificuldadeEvento2":"Moderado",
       "StatusEvento2":"Em andamento",
       "Image2":"https://blogdescalada.com/wp-content/uploads/2017/06/nepal-3.jpg",
-      "Ano":"2019"
-   },
-   { 
-      "IDEvento2":2,
-      "MesEvento":"FEVEREIRO",
+      
+        "MesEvento2":"FEVEREIRO",
       "NomeEvento3":"Travessia (Lapinha x Rio de Pedras)",
       "LocalEvento3":"Lapinha da Serra",
       "DataEvento3":"08 e 09",
       "DificuldadeEvento3":"Moderado",
       "StatusEvento3":"Em andamento",
       "Image3":"https://blogdescalada.com/wp-content/uploads/2017/06/nepal-3.jpg",
-      "Ano":"2019"
-   },
-   { 
-      "IDEvento3":3,
-      "MesEvento":"MARÇO",
+      
+       "MesEvento3":"MARÇO",
       "NomeEvento4":"Circuito (Lapinha da Serra) dia das mulheres",
       "LocalEvento4":"Lapinha da Serra",
       "DataEvento4":"08",
@@ -44,103 +38,6 @@
       "DificuldadeEvento5":"Moderado",
       "StatusEvento5":"Em andamento",
       "Image5":"https://blogdescalada.com/wp-content/uploads/2017/06/nepal-3.jpg",
-      "Ano":"2019"
-   },
-   { 
-      "IDEvento":4,
-      "MesEvento":"Abril",
-      "NomeEvento":" - ",
-      "LocalEvento":" - ",
-      "DataEvento":" - ",
-      "DificuldadeEvento":" - ",
-      "ObsEvento":" - "
-   },
-   { 
-      "IDEvento":5,
-      "MesEvento":"Maio",
-      "NomeEvento":" - ",
-      "LocalEvento":" - ",
-      "DataEvento":" - ",
-      "DificuldadeEvento":" - ",
-      "ObsEvento":" - ",
-      "StatusEvento":" - ",
-      "Ano":"2019"
-   },
-   { 
-      "IDEvento":6,
-      "MesEvento":"Junho",
-      "NomeEvento":" - ",
-      "LocalEvento":" - ",
-      "DataEvento":" - ",
-      "DificuldadeEvento":" - ",
-      "ObsEvento":" - ",
-      "StatusEvento":" - ",
-      "Ano":"2019"
-   },
-   { 
-      "IDEvento":7,
-      "MesEvento":"Julho",
-      "NomeEvento":" - ",
-      "LocalEvento":" - ",
-      "DataEvento":" - ",
-      "DificuldadeEvento":" - ",
-      "ObsEvento":" - ",
-      "StatusEvento":" - ",
-      "Ano":"2019"
-   },
-   { 
-      "IDEvento":8,
-      "MesEvento":"Agosto",
-      "NomeEvento":" - ",
-      "LocalEvento":" - ",
-      "DataEvento":" - ",
-      "DificuldadeEvento":" - ",
-      "ObsEvento":" - ",
-      "StatusEvento":" - ",
-      "Ano":"2019"
-   },
-   { 
-      "IDEvento":9,
-      "MesEvento":"Setembro",
-      "NomeEvento":" - ",
-      "LocalEvento":" - ",
-      "DataEvento":" - ",
-      "DificuldadeEvento":" - ",
-      "ObsEvento":" - ",
-      "StatusEvento":" - ",
-      "Ano":"2019"
-   },
-   { 
-      "IDEvento":10,
-      "MesEvento":"Outubro",
-      "NomeEvento":" - ",
-      "LocalEvento":" - ",
-      "DataEvento":" - ",
-      "DificuldadeEvento":" - ",
-      "ObsEvento":" - ",
-      "StatusEvento":" - ",
-      "Ano":"2019"
-   },
-   { 
-      "IDEvento":11,
-      "MesEvento":"Novembro",
-      "NomeEvento":" - ",
-      "LocalEvento":" - ",
-      "DataEvento":" - ",
-      "DificuldadeEvento":" - ",
-      "ObsEvento":" - ",
-      "StatusEvento":" - ",
-      "Ano":"2019"
-   },
-   { 
-      "IDEvento":12,
-      "MesEvento":"Dezembro",
-      "NomeEvento":" - ",
-      "LocalEvento":" - ",
-      "DataEvento":" - ",
-      "DificuldadeEvento":" - ",
-      "ObsEvento":" - ",
-      "StatusEvento":" - ",
       "Ano":"2019"
    }
 ]
