@@ -18,7 +18,7 @@
       "Ano":"2019"
    },
    { 
-      "IDEvento":2,
+      "IDEvento2":2,
       "MesEvento":"FEVEREIRO",
       "NomeEvento3":"Travessia (Lapinha x Rio de Pedras)",
       "LocalEvento3":"Lapinha da Serra",
@@ -29,7 +29,7 @@
       "Ano":"2019"
    },
    { 
-      "IDEvento":3,
+      "IDEvento3":3,
       "MesEvento":"MARÇO",
       "NomeEvento4":"Circuito (Lapinha da Serra) dia das mulheres",
       "LocalEvento4":"Lapinha da Serra",
